@@ -1,1 +1,1 @@
-# Udobn
+# Document analysis app frontend
